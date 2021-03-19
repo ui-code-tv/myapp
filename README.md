@@ -32,3 +32,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Layout and css modules in NextJS
+
+- **--------------------------------**
+- Create a next app using create-next-app
+- Go over folder structure - Talk breifly about _app.js
+- Talk about css module - Global scope , component scope
+- Look at over view Hamburger menu on code pen, briefly explain the funtionality
+- Seperate out Global style and Component style
+- Edit app.js and demo how its going to work
+- Create two pages about and contact
+- Copy over Nav bar and footer to layout
+- Test
+- Edit Put in links and href
+- Test
+
+
+
+    Shared layouts and css modules in NextJS
+    ----------------------------------------
+
+- Run "npx create-next-app myapp" to follow along
+- Copy Hamburger menu from code pen (Briefly explain the funtionality)  
+   codepen address:  https://codepen.io/ui-code-tv/pen/zYoQwaR?editors=1000
+
+- Create Global styles and Component styles
+- Edit _app.js to create shared layout
+- copy over the Hamburger menu into our a new shared layout component.
+- Create some dummy pages ie about and contact
